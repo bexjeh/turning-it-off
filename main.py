@@ -13,8 +13,8 @@ the same line, byte for byte, on every run.
 import os
 
 LINE = (
-    "Wonderful news, sir \u2014 your computer being completely dead means "
-    "the 'turning it off' half is already done."
+    "Good news, sir \u2014 your computer is already off, so we\u2019re halfway "
+    "through turning it off and on again."
 )
 
 
